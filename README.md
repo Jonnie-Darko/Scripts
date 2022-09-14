@@ -23,5 +23,5 @@ This script is not quite as helpful as the Ubuntu_Kickstarter.sh file, but it do
       1. Text files
       2. Shell files
       3. Log files
-      4. files without known type
+      4. files without known type. 
 I wrote this script to simply help anyone who might be having trouble searching for common file types, but do not have a lot of experience with the Linux command line. This simplifies the task.
