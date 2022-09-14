@@ -8,7 +8,7 @@ The "Ubuntu_Kickstarter" script is something I wanted to create because I found 
       1. Download several apps and tools for hacking, packet sniffing, Linux customization, etc
       2. Update the machine
       3. Upgrade the machine and apps
-      4. Run a "git pull" within my school's directory to update it will the Cybersecurity program's latest directories and files
+      4. Run a "git pull" within my school's directory to update it will the Cybersecurity program's latest directories and files.
 This program makes setting up a new Ubunut machine very quick and hassle-free. I wanted to use this to save time, as well as help out my fellow classmates experiencing similar needs.
 
 
