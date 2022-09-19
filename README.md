@@ -1,4 +1,4 @@
-# personal_scripts
+# Bash Scripts
 
 Ubunu_Kickstarter.sh
 
